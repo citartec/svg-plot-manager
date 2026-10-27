@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="210mm" height="148mm" viewBox="0 0 210 148">
+ <g inkscape:groupmode="layer" inkscape:label="01 · Black outlines" id="pen_black" style="fill:none;stroke:#1b293b;stroke-width:.65">
+  <path d="M15 20 H195 V128 H15 Z"/>
+  <path d="M25 35 H185 V113 H25 Z"/>
+  <path d="M25 52 H185 M25 72 H185 M25 92 H185"/>
+  <path d="M43 35 V113 M75 35 V113 M105 35 V113 M135 35 V113 M165 35 V113"/>
+  <path d="M15 15 L20 20 M190 128 L195 133"/>
+  <path d="M33 43 L177 105 M33 105 L177 43"/>
+  <path d="M46 46 L159 99"/>
+  <path d="M46 100 L160 45"/>
+ </g>
+ <g inkscape:groupmode="layer" inkscape:label="02 · Red detail pen" id="pen_red" style="fill:none;stroke:#e34f6b;stroke-width:.55">
+  <path d="M105 40 C151 40 161 74 105 74 C49 74 59 108 105 108"/>
+  <path d="M105 44 C145 44 156 74 105 74 C54 74 65 104 105 104"/>
+  <path d="M105 48 C139 48 150 74 105 74 C60 74 70 100 105 100"/>
+  <path d="M105 52 C134 52 144 74 105 74 C66 74 76 96 105 96"/>
+  <path d="M105 56 C130 56 138 74 105 74 C72 74 80 92 105 92"/>
+  <path d="M105 60 C126 60 132 74 105 74 C78 74 86 88 105 88"/>
+  <path d="M105 64 C120 64 126 74 105 74 C84 74 90 84 105 84"/>
+  <path d="M105 68 C113 68 120 74 105 74 C90 74 97 80 105 80"/>
+ </g>
+ <g inkscape:groupmode="layer" inkscape:label="03 · Blue stippling" id="pen_blue" style="fill:none;stroke:#339ade;stroke-linecap:round;stroke-width:1.1">
+  <g transform="translate(9 2)">
+   <path d="M20 17 h.01 M30 23 h.01 M42 18 h.01 M53 25 h.01 M63 21 h.01"/>
+   <path d="M71 15 h.01 M82 24 h.01 M94 19 h.01 M106 26 h.01 M119 20 h.01"/>
+   <path d="M132 15 h.01 M143 24 h.01 M154 20 h.01 M167 27 h.01 M176 20 h.01"/>
+   <path d="M20 123 h.01 M30 129 h.01 M42 124 h.01 M53 132 h.01 M63 126 h.01"/>
+   <path d="M71 119 h.01 M82 127 h.01 M94 120 h.01 M106 131 h.01 M119 125 h.01"/>
+   <path d="M132 122 h.01 M143 131 h.01 M154 124 h.01 M167 130 h.01 M176 119 h.01"/>
+   <path d="M18 43 h.01 M18 63 h.01 M18 83 h.01 M18 103 h.01"/>
+   <path d="M182 43 h.01 M182 63 h.01 M182 83 h.01 M182 103 h.01"/>
+  </g>
+ </g>
+</svg>
